@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sandhya-622/622.git/static/css/main.e6c13ad2.css",
-    "main.js": "/sandhya-622/622.git/static/js/main.00527ea4.js",
-    "static/js/592.7b06a24f.chunk.js": "/sandhya-622/622.git/static/js/592.7b06a24f.chunk.js",
-    "index.html": "/sandhya-622/622.git/index.html",
-    "main.e6c13ad2.css.map": "/sandhya-622/622.git/static/css/main.e6c13ad2.css.map",
-    "main.00527ea4.js.map": "/sandhya-622/622.git/static/js/main.00527ea4.js.map",
-    "592.7b06a24f.chunk.js.map": "/sandhya-622/622.git/static/js/592.7b06a24f.chunk.js.map"
+    "main.css": "/622/static/css/main.e6c13ad2.css",
+    "main.js": "/622/static/js/main.ff3c4d57.js",
+    "static/js/592.7b06a24f.chunk.js": "/622/static/js/592.7b06a24f.chunk.js",
+    "index.html": "/622/index.html",
+    "main.e6c13ad2.css.map": "/622/static/css/main.e6c13ad2.css.map",
+    "main.ff3c4d57.js.map": "/622/static/js/main.ff3c4d57.js.map",
+    "592.7b06a24f.chunk.js.map": "/622/static/js/592.7b06a24f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.00527ea4.js"
+    "static/js/main.ff3c4d57.js"
   ]
 }
